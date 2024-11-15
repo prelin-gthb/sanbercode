@@ -1,10 +1,10 @@
-## **QA Automation Course Assignment**
+## **QA Automation Course Assignment: Basic Javascript**
 
 This repository was created to fulfill the QA Automation Course assignment from [Sanbercode](sanbercode.id). It contains two JavaScript programs, each addressing specific tasks as described below.
 
 ### **Contents**
 1. [soal1.js - Square Root Calculator](#1.-soal1.js---Square-Root-Calculator)
-2. [soal2.js - Product Quantity Calculator](#1.-soa2.js---Product-Quantity-Calculator)
+2. [soal2.js - Product Quantity Checker](#1.-soal2.js---Product-Quantity-Checker)
 
 ---
 
@@ -16,7 +16,7 @@ This program calculates the square root of a given number with the following con
 
 #### **2. soal2.js - Product Quantity Checker**
 
-This program is designed to check the total quantity of a specific product, identified by its `productCode`, across multiple `storageIds` based on this example of an API response:
+This program is designed to check the total quantity of a specific product, identified by its `productCode`, across multiple `storageIds` based on this example of an API response below. This API response is saved in the `productData.json` file.
 
 ```javascript
 let productBin = {
